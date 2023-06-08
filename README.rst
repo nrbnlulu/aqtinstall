@@ -222,3 +222,5 @@ This program is originally shown in Kaidan project as a name `qli-installer`_.
 The ``aqtinstall`` project extend and improve it.
 
 .. _`qli-installer`: https://lnj.gitlab.io/post/qli-installer
+
+
