@@ -26,9 +26,6 @@ jobs:
             qtver: 6.1.0
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 20
-      - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
